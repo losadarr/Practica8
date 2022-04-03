@@ -88,7 +88,7 @@ public class ProcessControllerE2ETest {
         MultiValueMap<String, String> data2 =new LinkedMultiValueMap<>();
         data2.add("fullName", "");
         data2.add("dni", "05965845J");
-        data2.add("telefono", "+44 7887636994");
+        data2.add("telefono", "+34 6300022156");
 
         
         MultiValueMap<String, String> data3 =new LinkedMultiValueMap<>();
