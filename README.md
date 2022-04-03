@@ -1,4 +1,4 @@
-# Practica 6: Testing de una aplicacion de Spring Boot
+# Practica 8 (Tema8): Testing de una aplicacion de Spring Boot
 
 ## Objetivo de la práctica
 
